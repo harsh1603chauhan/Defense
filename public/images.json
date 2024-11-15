@@ -1,0 +1,19 @@
+{
+    "images": [
+      { "src": "/pp.jpg", "alt": "Image 1", "story": "Story for image 1" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/pi.webp", "alt": "Image 3", "story": "Story for image 3" },
+      { "src": "/p1.jpeg", "alt": "Image 4", "story": "Story for image 4" },
+      { "src": "/p3.jpeg", "alt": "Image 5", "story": "Story for image 5" },
+      { "src": "/ppdt4.webp", "alt": "Image 6", "story": "Story for image 6" },
+      { "src": "/p8.jpg", "alt": "Image 7", "story": "Story for image 7" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" },
+      { "src": "/ppp.webp", "alt": "Image 2", "story": "Story for image 2" }
+      
+    ]
+  }
+  

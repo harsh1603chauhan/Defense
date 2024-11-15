@@ -1,0 +1,109 @@
+/* General Reset */
+   
+/* Main Container Styling */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Heading Styling */
+h1 {
+    padding: 10px;
+    font-family: 'Georgia', serif;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+h2{
+    margin-bottom: 1rem;
+    padding: 10px;
+}
+
+/* Subheading Styling */
+.subheading-byline {
+    font-size: 1.1rem;
+    color: #555;
+    margin-bottom: 1rem;
+}
+
+/* Table of Contents Styling */
+.ez-toc-title {
+    font-size: 1.2rem;
+    color: #004085; /* Navy blue */
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+/* Tables Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 1.5rem;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+th, td {
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #004085;
+    color: white;
+}
+
+td {
+    background-color: #f7f7f7;
+}
+
+/* List Styling */
+ul, li {
+    list-style-type: disc;
+    margin-left: 1.5rem;
+    color: #333;
+}
+
+/* Important Topics Styling */
+ul li ul {
+    list-style-type: circle;
+    margin-left: 1.5rem;
+}
+
+strong {
+    color: #004085; /* Highlighted navy color for bold text */
+}
+
+/* Link Styling */
+
+
+a:hover {
+    color: #ffc107;
+}
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .container {
+        width: 100%;
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 1.8rem;
+    }
+
+    .subheading-byline {
+        font-size: 1rem;
+    }
+
+    th, td {
+        font-size: 0.85rem;
+        padding: 0.5rem;
+    }
+}
